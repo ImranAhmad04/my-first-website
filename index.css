@@ -1,20 +1,40 @@
 body{
-        font-family: 'Poppins' , sans-serif;
-        background-color:gray;
+    font-family: 'Poppins' , sans-serif;
 }
 h1{
-    font-size: 50px;
+font-size: 50px;
 }
 .Imran-website{
-    color: orange;
+color: orange;
 }
 .half-width{
-    width: 40%;
-    float: left;
-    margin-left: 5%;
-    padding-left: 5%;
+width: 40%;
+float: left;
+margin-left: 5%;
+padding-left: 5%;
+}
+.half-width .half-width{
+    width: 10px;
+    opacity: 0;
+    background-color: aqua;
 }
 .half-width img{
-    width:100%;
+width:100%;
 
+}
+.top-banner{
+width: 95% 95% 95% 95% ;
+height:600px ;
+padding: 15px;
+background-image: url("images/bg-img.jpg");
+background-size: 100%;
+background-image: 0.1;
+background-repeat: no-repeat;
+
+}
+.exper-area{
+
+}
+.orange-highliglht{
+    color: orange;
 }
